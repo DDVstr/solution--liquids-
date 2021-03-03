@@ -1,0 +1,4 @@
+C:\Users\mrpoi\Desktop\yandex.code\Debug\yandex.code.exe
+C:\Users\mrpoi\Desktop\yandex.code\Debug\yandex.code.pdb
+C:\Users\mrpoi\Desktop\Yandex\yandex.code\Debug\yandex.code.exe
+C:\Users\mrpoi\Desktop\Yandex\yandex.code\Debug\yandex.code.pdb
